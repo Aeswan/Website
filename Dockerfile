@@ -1,2 +1,2 @@
-FROM Aeswan/webapp
+FROM kumaraeswan/webapp
 ADD . /var/www/html
